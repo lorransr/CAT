@@ -8,9 +8,17 @@ A desinformação a respeito dos acidentes de trabalho no país é em si alarman
   
 Com isso em mente esse trabalho se propõem a realizar uma analise, a partir das bases de dados disponibilizadas, através do portal da transparência, pela previdência social a respeito dos Acidentes do Trabalho ocorridos no pais.  
 
-## 
+## CAT - Comunicação de Acidente de Trabalho
+A comunicação de acidente de trabalho (CAT) é um documento emitido para reconhecer tanto um  acidente de trabalho ou  de trajeto, bem como uma  doença ocupacional. Aqui vale a definição desses termos:
 
-## 
+-   Acidente de trabalho ou de trajeto:é o acidente ocorrido no exercício da atividade profissional a serviço da empresa ou no deslocamento residência -> trabalho -> residência.
+    
+-   Doença ocupacional: é aquela produzida ou desencadeada pelo exercício do trabalho peculiar a determinada atividade e constante da respectiva relação elaborada pelo Ministério do Trabalho e da Previdência Social.
+    
+
+A CAT é um documento obrigatório e possui um prazo de emissão curto. Mesmo que não haja afastamento, a CAT deve ser emitida até o primeiro dia útil seguinte ao da ocorrência. Sob o risco de multa. Por conta desta característica a base de dados do INSS é extramemente útil e pouco defasada da realidade brasileira, portanto um bom instrumento para análise.
+
+
 
 ## Metodologia  
 A princípio foram adquiridas 6 bases de dados, com diferentes recortes a respeito do tema. Elas são:  
@@ -25,6 +33,6 @@ Todas as bases de dados estão segmentadas por ano. Todas contêm algum indicati
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNzY1NDY3OCwxMTU4NjUwNjE2LDIyND
+eyJoaXN0b3J5IjpbLTI1OTQ2ODAzMSwxMTU4NjUwNjE2LDIyND
 gyNTM4Ml19
 -->
