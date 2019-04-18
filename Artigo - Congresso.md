@@ -8,7 +8,7 @@ A desinformação a respeito dos acidentes de trabalho no país é em si alarman
   
 Com isso em mente esse trabalho se propõem a realizar uma analise, a partir das bases de dados disponibilizadas, através do portal da transparência, pela previdência social a respeito dos Acidentes do Trabalho ocorridos no pais.  
 
-## Resumo
+## 
 
 ## 
 
@@ -25,6 +25,6 @@ Todas as bases de dados estão segmentadas por ano. Todas contêm algum indicati
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjA5NTI5MDksMTE1ODY1MDYxNiwyMj
-Q4MjUzODJdfQ==
+eyJoaXN0b3J5IjpbLTcwNzY1NDY3OCwxMTU4NjUwNjE2LDIyND
+gyNTM4Ml19
 -->
