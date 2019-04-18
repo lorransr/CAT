@@ -13,8 +13,8 @@ A comunicação de acidente de trabalho (CAT) é um documento emitido para recon
 
 -   Acidente de trabalho ou de trajeto:é o acidente ocorrido no exercício da atividade profissional a serviço da empresa ou no deslocamento
 ```mermaid
-sequenceDiagram
-Residência ->> Trabalho: Hello Bob, how are you?
+graph LR
+    Residência --> Trabalho --> Residência
 
 ```
 
@@ -48,6 +48,6 @@ https://www.scielosp.org/scielo.php?pid=S0034-89102006000700007&script=sci_artte
 http://www.scielo.br/scielo.php?pid=S1413-81232005000400009&script=sci_abstract&tlng=pt
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE1NjI2NTEsNzQ5NjYyNDk4LDg5NjMwOT
-U1MywxMTU4NjUwNjE2LDIyNDgyNTM4Ml19
+eyJoaXN0b3J5IjpbMTUwNjA1MzE1MSw3NDk2NjI0OTgsODk2Mz
+A5NTUzLDExNTg2NTA2MTYsMjI0ODI1MzgyXX0=
 -->
