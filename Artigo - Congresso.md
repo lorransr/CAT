@@ -14,7 +14,7 @@ A comunicação de acidente de trabalho (CAT) é um documento emitido para recon
 -   Acidente de trabalho ou de trajeto:é o acidente ocorrido no exercício da atividade profissional a serviço da empresa ou no deslocamento
 ```mermaid
 	graph LR
-    Residência --> Trabalho
+    id1[Residência] --> Trabalho
     Trabalho --> Residência
 ```
 
@@ -22,7 +22,7 @@ A comunicação de acidente de trabalho (CAT) é um documento emitido para recon
 -   Doença ocupacional: é aquela produzida ou desencadeada pelo exercício do trabalho peculiar a determinada atividade e constante da respectiva relação elaborada pelo Ministério do Trabalho e da Previdência Social.
     
 
-O INSS informa que a CAT é um documento obrigatório e possui um prazo de emissão curto. Mesmo que não haja afastamento, a CAT deve ser emitida até o primeiro dia útil seguinte ao da ocorrência. Sob o risco de multa. Por conta desta característica a base de dados do INSS é útil e pouco defasada da realidade brasileira, portanto um bom instrumento para análise.
+O INSS informa que a CAT é um documento obrigatório e possui um prazo de emissão curto. Mesmo que não haja afastamento, a CAT deve ser emitida até o primeiro dia útil seguinte ao da ocorrência; sob o risco de multa. Por conta desta característica a base de dados do INSS é útil e pouco defasada da realidade brasileira, portanto um bom instrumento para análise.
 
 
 
@@ -48,6 +48,6 @@ https://www.scielosp.org/scielo.php?pid=S0034-89102006000700007&script=sci_artte
 http://www.scielo.br/scielo.php?pid=S1413-81232005000400009&script=sci_abstract&tlng=pt
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQwNzUxNjgyLDc0OTY2MjQ5OCw4OTYzMD
-k1NTMsMTE1ODY1MDYxNiwyMjQ4MjUzODJdfQ==
+eyJoaXN0b3J5IjpbLTEwMTc4MDc4Myw3NDk2NjI0OTgsODk2Mz
+A5NTUzLDExNTg2NTA2MTYsMjI0ODI1MzgyXX0=
 -->
