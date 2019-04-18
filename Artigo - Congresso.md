@@ -16,7 +16,6 @@ A comunicação de acidente de trabalho (CAT) é um documento emitido para recon
 	graph LR
     Residência --> Trabalho
     Trabalho --> Residência
-
 ```
 
     
@@ -49,6 +48,6 @@ https://www.scielosp.org/scielo.php?pid=S0034-89102006000700007&script=sci_artte
 http://www.scielo.br/scielo.php?pid=S1413-81232005000400009&script=sci_abstract&tlng=pt
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODY0NDQ1ODgsNzQ5NjYyNDk4LDg5Nj
-MwOTU1MywxMTU4NjUwNjE2LDIyNDgyNTM4Ml19
+eyJoaXN0b3J5IjpbODQwNzUxNjgyLDc0OTY2MjQ5OCw4OTYzMD
+k1NTMsMTE1ODY1MDYxNiwyMjQ4MjUzODJdfQ==
 -->
