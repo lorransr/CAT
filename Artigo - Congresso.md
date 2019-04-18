@@ -38,8 +38,10 @@ https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1097-0274(199911)36:5%3C48
 http://ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---safework/documents/publication/wcms_110382.pdf
 https://www.ilo.org/safework/info/publications/WCMS_142840/lang--en/index.htm
 %Brasil
+https://www.scielosp.org/scielo.php?pid=S0034-89102006000700007&script=sci_arttext&tlng=en
+http://www.scielo.br/scielo.php?pid=S1413-81232005000400009&script=sci_abstract&tlng=pt
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MTc4MDQ3Myw4OTYzMDk1NTMsMTE1OD
-Y1MDYxNiwyMjQ4MjUzODJdfQ==
+eyJoaXN0b3J5IjpbNzQ5NjYyNDk4LDg5NjMwOTU1MywxMTU4Nj
+UwNjE2LDIyNDgyNTM4Ml19
 -->
