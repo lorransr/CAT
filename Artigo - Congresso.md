@@ -35,7 +35,7 @@ A princípio foram adquiridas 6 bases de dados, com diferentes recortes a respei
 5. Acidentes de Trabalho por CID  
 6. Acidentes de Trabalho por CBO  
   
-Todas as bases de dados são segmentadas por ano. Todas contêm algum indicativo da situação de haver ou não uma comunicação de acidente de trabalho registrada registrada. Igualmente, todas possuem um campo com a tipificação do acidente, seja ele típico, de trajeto ou uma doença de trabalho. Cada base será analisada individualmente, em seu contexto específico, com base em estudos a respeito do tema. Em seguida s
+Todas as bases de dados são segmentadas por ano. Todas contêm algum indicativo da situação de haver ou não uma comunicação de acidente de trabalho registrada registrada. Igualmente, todas possuem um campo com a tipificação do acidente, seja ele típico, de trajeto ou uma doença de trabalho. Cada base será analisada individualmente, em seu contexto específico, com base em estudos a respeito do tema. Uma vez explorada todas essas seis dimensões do problema, será possível chegar em um compreendimento maior a respeito do que 
 
 ## Referencias Bibliográficas
 
@@ -48,7 +48,7 @@ https://www.scielosp.org/scielo.php?pid=S0034-89102006000700007&script=sci_artte
 http://www.scielo.br/scielo.php?pid=S1413-81232005000400009&script=sci_abstract&tlng=pt
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgzNDIxNzA0LC0xNDgwNTAxMDgsNzQ5Nj
+eyJoaXN0b3J5IjpbLTU2MDQ2MDMyLC0xNDgwNTAxMDgsNzQ5Nj
 YyNDk4LDg5NjMwOTU1MywxMTU4NjUwNjE2LDIyNDgyNTM4Ml19
 
 -->
