@@ -32,11 +32,13 @@ A princípio foram adquiridas 6 bases de dados, com diferentes recortes a respei
 Todas as bases de dados estão segmentadas por ano. Todas contêm algum indicativo da situação de haver ou não uma comunicação de acidente de trabalho registrada registrada. Igualmente, todas possuem um campo com a tipificação do acidente, seja ele típico, de trajeto ou uma doença de trabalho.
 
 ## Referencias Bibliográficas
+%B
 https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1097-0274(199911)36:5%3C487::AID-AJIM1%3E3.0.CO;2-2
 http://ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---safework/documents/publication/wcms_110382.pdf
+https://www.ilo.org/safework/info/publications/WCMS_142840/lang--en/index.htm
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MTY2OTE4NCw4OTYzMDk1NTMsMTE1OD
-Y1MDYxNiwyMjQ4MjUzODJdfQ==
+eyJoaXN0b3J5IjpbLTEwNTIzMDAwMDQsODk2MzA5NTUzLDExNT
+g2NTA2MTYsMjI0ODI1MzgyXX0=
 -->
