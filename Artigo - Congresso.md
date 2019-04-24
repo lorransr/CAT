@@ -4,8 +4,6 @@
 
 Em 2018 diversos portais como o próprio ministério público do trabalho e a associação nacional de medicina do trabalho reproduziram a notícia de que o Brasil seria o 4° pais em um ranking feito com base em dados da OIT, que diz respeito aos países com a maior quantidade de acidentes de trabalho. Segundo, a própria OIT (truconosestados) tal ranking nunca existiu. Essa informação foi replicada, inclusive no programa de governo de um deputado no rio grande do sul. Na época, a OIT só possuía informações a respeito do assunto até o ano de 2011.
 
-Outro aspecto a ser observado é o custo associado a invalidez. O tema foi abordado por SOUSA SANTANA(2006), onde buscou-se estimar o impacto dos acidentes de trabalho sobre a produtividade, contabilizada em dias. 
-
 A desinformação a respeito dos acidentes de trabalho no país é em si alarmante. A situação se agrava, em vista que em 2017 foram registrados 895770 acidentes no país, segundo dados do MPT. Anualmente a previdência social busca publicar um relatório informando os dados que serão discutidos neste artigo. No entanto com o horizonte de observação limitado e sem uma análise contextualizada.
 Entender onde, com quem, quando e como ocorrem os acidentes de trabalho são os primeiros passos para o norteamento de políticas públicas de prevenção de acidentes.  
 
@@ -54,10 +52,13 @@ https://www.ilo.org/safework/info/publications/WCMS_142840/lang--en/index.htm
 https://www.scielosp.org/scielo.php?pid=S0034-89102006000700007&script=sci_arttext&tlng=en
 http://www.scielo.br/scielo.php?pid=S1413-81232005000400009&script=sci_abstract&tlng=pt
 http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0034-89102006000700007&lng=en
+http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-311X2014000901957&lang=en
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyOTUzNjkxOSwtMjM5Nzk5MzY3LC01Nj
-c1NTMzNzMsLTE0MzUxMDgzMzAsLTEzNzI5NzgwNDQsLTgzNjEw
-MDkyMSwtNTM3MjE3NjY0LC0xNDgwNTAxMDgsNzQ5NjYyNDk4LD
-g5NjMwOTU1MywxMTU4NjUwNjE2LDIyNDgyNTM4Ml19
+eyJoaXN0b3J5IjpbMTMzMzEyNDc4NSwxMzI5NTM2OTE5LC0yMz
+k3OTkzNjcsLTU2NzU1MzM3MywtMTQzNTEwODMzMCwtMTM3Mjk3
+ODA0NCwtODM2MTAwOTIxLC01MzcyMTc2NjQsLTE0ODA1MDEwOC
+w3NDk2NjI0OTgsODk2MzA5NTUzLDExNTg2NTA2MTYsMjI0ODI1
+MzgyXX0=
 -->
