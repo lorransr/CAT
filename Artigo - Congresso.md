@@ -8,11 +8,7 @@ A desinformação a respeito dos acidentes de trabalho no país é em si alarman
 
 Outro aspecto pouco abordado, é  o impacto na produtividade. Sousa Santana (2006) estimou para o estado da bahia no ano de 2007, um total de aproximadamente meio milhão de dias perdidos, de trabalho no ano; levando-se a população de 2857 acidentados.
 
-Entender onde, com quem, quando e como ocorrem os acidentes de trabalho são os primeiros passos para o norteamento de políticas públicas de prevenção de acidentes.  
-
-
-
-Com isso em mente esse trabalho se propõem a realizar uma analise, a partir das bases de dados disponibilizadas, através do portal da transparência, pela previdência social a respeito dos acidentes do trabalho ocorridos no pais no período x.  
+Entender onde, com quem, quando e como ocorrem os acidentes de trabalho são os primeiros passos para o norteamento de políticas públicas de prevenção de acidentes.  Com isso em mente esse trabalho se propõem a realizar uma analise, a partir das bases de dados disponibilizadas, através do portal da transparência, pela previdência social a respeito dos acidentes do trabalho ocorridos no pais no período x.  
 
 ## CAT - Comunicação de Acidente de Trabalho
 A comunicação de acidente de trabalho (CAT) é um documento emitido para reconhecer tanto um  acidente de trabalho ou  de trajeto, bem como uma  doença ocupacional(INSS). Aqui vale a definição desses termos:
@@ -41,7 +37,7 @@ A princípio foram adquiridas 6 bases de dados, com diferentes recortes a respei
 5. Acidentes de Trabalho por CID  
 6. Acidentes de Trabalho por CBO  
   
-Todas as bases de dados são segmentadas por ano. Todas contêm algum indicativo da situação de haver ou não uma comunicação de acidente de trabalho registrada registrada. Igualmente, todas possuem um campo com a tipificação do acidente, seja ele típico, de trajeto ou uma doença de trabalho. Cada base será analisada individualmente, em seu contexto específico, com base em estudos a respeito do tema. Uma vez explorada todas essas seis dimensões do problema, será possível chegar em um compreendimento maior a respeito de como se apresenta a situação dos acidentes de trabalho no Brasil.
+Todas as bases de dados são segmentadas por ano. Todas contêm algum indicativo se houve ou não uma comunicação de acidente de trabalho registrada. Igualmente, todas possuem um campo com a tipificação do acidente, seja ele típico, de trajeto ou uma doença de trabalho. Cada base será analisada individualmente, em seu contexto específico, com base em estudos a respeito do tema. Uma vez explorada todas essas seis dimensões do problema, será possível chegar em um compreendimento maior a respeito de como se apresenta a situação dos acidentes de trabalho no Brasil.
 
 
 
@@ -58,9 +54,9 @@ http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0034-89102006000700007&l
 http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-311X2014000901957&lang=en
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzgzMzE3MCwxMzMzMTI0Nzg1LDEzMj
-k1MzY5MTksLTIzOTc5OTM2NywtNTY3NTUzMzczLC0xNDM1MTA4
-MzMwLC0xMzcyOTc4MDQ0LC04MzYxMDA5MjEsLTUzNzIxNzY2NC
-wtMTQ4MDUwMTA4LDc0OTY2MjQ5OCw4OTYzMDk1NTMsMTE1ODY1
-MDYxNiwyMjQ4MjUzODJdfQ==
+eyJoaXN0b3J5IjpbLTEyNTg2MDU2NjIsMTMzMzEyNDc4NSwxMz
+I5NTM2OTE5LC0yMzk3OTkzNjcsLTU2NzU1MzM3MywtMTQzNTEw
+ODMzMCwtMTM3Mjk3ODA0NCwtODM2MTAwOTIxLC01MzcyMTc2Nj
+QsLTE0ODA1MDEwOCw3NDk2NjI0OTgsODk2MzA5NTUzLDExNTg2
+NTA2MTYsMjI0ODI1MzgyXX0=
 -->
