@@ -52,13 +52,13 @@ https://www.ilo.org/safework/info/publications/WCMS_142840/lang--en/index.htm
 https://www.scielosp.org/scielo.php?pid=S0034-89102006000700007&script=sci_arttext&tlng=en
 http://www.scielo.br/scielo.php?pid=S1413-81232005000400009&script=sci_abstract&tlng=pt
 http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0034-89102006000700007&lng=en
-http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-311X2014000901957&lang=en
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMzEyNDc4NSwxMzI5NTM2OTE5LC0yMz
-k3OTkzNjcsLTU2NzU1MzM3MywtMTQzNTEwODMzMCwtMTM3Mjk3
-ODA0NCwtODM2MTAwOTIxLC01MzcyMTc2NjQsLTE0ODA1MDEwOC
-w3NDk2NjI0OTgsODk2MzA5NTUzLDExNTg2NTA2MTYsMjI0ODI1
-MzgyXX0=
+eyJoaXN0b3J5IjpbLTIxMzA2MTA0NDQsMTMzMzEyNDc4NSwxMz
+I5NTM2OTE5LC0yMzk3OTkzNjcsLTU2NzU1MzM3MywtMTQzNTEw
+ODMzMCwtMTM3Mjk3ODA0NCwtODM2MTAwOTIxLC01MzcyMTc2Nj
+QsLTE0ODA1MDEwOCw3NDk2NjI0OTgsODk2MzA5NTUzLDExNTg2
+NTA2MTYsMjI0ODI1MzgyXX0=
 -->
