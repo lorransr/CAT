@@ -48,9 +48,10 @@ https://www.ilo.org/safework/info/publications/WCMS_142840/lang--en/index.htm
 %Brasil
 https://www.scielosp.org/scielo.php?pid=S0034-89102006000700007&script=sci_arttext&tlng=en
 http://www.scielo.br/scielo.php?pid=S1413-81232005000400009&script=sci_abstract&tlng=pt
+http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0034-89102006000700007&lng=en
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzIxNzY2NCwtMTQ4MDUwMTA4LDc0OT
-Y2MjQ5OCw4OTYzMDk1NTMsMTE1ODY1MDYxNiwyMjQ4MjUzODJd
-fQ==
+eyJoaXN0b3J5IjpbLTgzNjEwMDkyMSwtNTM3MjE3NjY0LC0xND
+gwNTAxMDgsNzQ5NjYyNDk4LDg5NjMwOTU1MywxMTU4NjUwNjE2
+LDIyNDgyNTM4Ml19
 -->
