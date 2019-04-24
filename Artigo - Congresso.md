@@ -4,7 +4,10 @@
 
 Em 2018 diversos portais como o próprio ministério público do trabalho e a associação nacional de medicina do trabalho reproduziram a notícia de que o Brasil seria o 4° pais em um ranking feito com base em dados da OIT, que diz respeito aos países com a maior quantidade de acidentes de trabalho. Segundo, a própria OIT (truconosestados) tal ranking nunca existiu. Essa informação foi replicada, inclusive no programa de governo de um deputado no rio grande do sul. Na época, a OIT só possuía informações a respeito do assunto até o ano de 2011.
 
-A desinformação a respeito dos acidentes de trabalho no país é em si alarmante. A situação se agrava, em vista que em 2017 foram registrados 895770 acidentes no país, segundo dados do MPT. Anualmente a previdência social busca publicar um relatório informando os dados que serão discutidos neste artigo. No anuário de 2017 consta que a previdência social mantinha 34,3 milhões de benefícios ativos, dos quais 2,3% são benefícios relacionados a acidentes de trabalho, totalizando o montante de R$ 970.777 Milhões .
+A desinformação a respeito dos acidentes de trabalho no país é em si alarmante. A situação se agrava, em vista que em 2017 foram registrados 895770 acidentes no país, segundo dados do MPT. Anualmente a previdência social busca publicar um relatório informando os dados que serão discutidos neste artigo. No anuário de 2017 consta que a previdência social mantinha 34,3 milhões de benefícios ativos, dos quais 2,3% são benefícios relacionados a acidentes de trabalho, totalizando o montante de R$ 970.777 Milhões.
+
+Outro aspecto pouco abordado, é  o impacto na produtividade. So
+
 Entender onde, com quem, quando e como ocorrem os acidentes de trabalho são os primeiros passos para o norteamento de políticas públicas de prevenção de acidentes.  
 
 
@@ -55,9 +58,9 @@ http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0034-89102006000700007&l
 http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-311X2014000901957&lang=en
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NDI0NjQzNywxMzMzMTI0Nzg1LDEzMj
-k1MzY5MTksLTIzOTc5OTM2NywtNTY3NTUzMzczLC0xNDM1MTA4
-MzMwLC0xMzcyOTc4MDQ0LC04MzYxMDA5MjEsLTUzNzIxNzY2NC
-wtMTQ4MDUwMTA4LDc0OTY2MjQ5OCw4OTYzMDk1NTMsMTE1ODY1
-MDYxNiwyMjQ4MjUzODJdfQ==
+eyJoaXN0b3J5IjpbLTE0MDM4OTYyMDcsMTMzMzEyNDc4NSwxMz
+I5NTM2OTE5LC0yMzk3OTkzNjcsLTU2NzU1MzM3MywtMTQzNTEw
+ODMzMCwtMTM3Mjk3ODA0NCwtODM2MTAwOTIxLC01MzcyMTc2Nj
+QsLTE0ODA1MDEwOCw3NDk2NjI0OTgsODk2MzA5NTUzLDExNTg2
+NTA2MTYsMjI0ODI1MzgyXX0=
 -->
