@@ -4,7 +4,7 @@
 
 Em 2018 diversos portais como o próprio ministério público do trabalho e a associação nacional de medicina do trabalho reproduziram a notícia de que o Brasil seria o 4° pais em um ranking feito com base em dados da OIT, que diz respeito aos países com a maior quantidade de acidentes de trabalho. Segundo, a própria OIT (truconosestados) tal ranking nunca existiu. Essa informação foi replicada, inclusive no programa de governo de um deputado no rio grande do sul. Na época, a OIT só possuía informações a respeito do assunto até o ano de 2011.
 
-Outro aspecto a ser observado é o custo associado a invalidez. O tema foi abordado por SOUSA SANTANA(2006), onde buscou-se estimar o impacto dos acidentes de trabalho sobre a produt
+Outro aspecto a ser observado é o custo associado a invalidez. O tema foi abordado por SOUSA SANTANA(2006), onde buscou-se estimar o impacto dos acidentes de trabalho sobre a produtividade, contabilizada em dias. 
 
 A desinformação a respeito dos acidentes de trabalho no país é em si alarmante. A situação se agrava, em vista que em 2017 foram registrados 895770 acidentes no país, segundo dados do MPT. Anualmente a previdência social busca publicar um relatório informando os dados que serão discutidos neste artigo. No entanto com o horizonte de observação limitado e sem uma análise contextualizada.
 Entender onde, com quem, quando e como ocorrem os acidentes de trabalho são os primeiros passos para o norteamento de políticas públicas de prevenção de acidentes.  
@@ -56,8 +56,8 @@ http://www.scielo.br/scielo.php?pid=S1413-81232005000400009&script=sci_abstract&
 http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0034-89102006000700007&lng=en
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDc3NzY2MjcsLTIzOTc5OTM2NywtNT
-Y3NTUzMzczLC0xNDM1MTA4MzMwLC0xMzcyOTc4MDQ0LC04MzYx
-MDA5MjEsLTUzNzIxNzY2NCwtMTQ4MDUwMTA4LDc0OTY2MjQ5OC
-w4OTYzMDk1NTMsMTE1ODY1MDYxNiwyMjQ4MjUzODJdfQ==
+eyJoaXN0b3J5IjpbMTMyOTUzNjkxOSwtMjM5Nzk5MzY3LC01Nj
+c1NTMzNzMsLTE0MzUxMDgzMzAsLTEzNzI5NzgwNDQsLTgzNjEw
+MDkyMSwtNTM3MjE3NjY0LC0xNDgwNTAxMDgsNzQ5NjYyNDk4LD
+g5NjMwOTU1MywxMTU4NjUwNjE2LDIyNDgyNTM4Ml19
 -->
