@@ -6,7 +6,7 @@ Em 2018 diversos portais como o próprio ministério público do trabalho e a as
 
 A desinformação a respeito dos acidentes de trabalho no país é em si alarmante. A situação se agrava, em vista que em 2017 foram registrados 895770 acidentes no país, segundo dados do MPT. Entender onde, com quem, quando e como ocorrem os acidentes de trabalho são os primeiros passos para nortearmos políticas públicas de prevenção de acidentes.  
   
-Com isso em mente esse trabalho se propõem a realizar uma analise, a partir das bases de dados disponibilizadas, através do portal da transparência, pela previdência social a respeito dos acidentes do trabalho ocorridos no pais no periodo .  
+Com isso em mente esse trabalho se propõem a realizar uma analise, a partir das bases de dados disponibilizadas, através do portal da transparência, pela previdência social a respeito dos acidentes do trabalho ocorridos no pais no período x.  
 
 ## CAT - Comunicação de Acidente de Trabalho
 A comunicação de acidente de trabalho (CAT) é um documento emitido para reconhecer tanto um  acidente de trabalho ou  de trajeto, bem como uma  doença ocupacional(INSS). Aqui vale a definição desses termos:
@@ -51,7 +51,7 @@ http://www.scielo.br/scielo.php?pid=S1413-81232005000400009&script=sci_abstract&
 http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0034-89102006000700007&lng=en
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzgwNzE4MTgsLTgzNjEwMDkyMSwtNT
+eyJoaXN0b3J5IjpbLTEzNzI5NzgwNDQsLTgzNjEwMDkyMSwtNT
 M3MjE3NjY0LC0xNDgwNTAxMDgsNzQ5NjYyNDk4LDg5NjMwOTU1
 MywxMTU4NjUwNjE2LDIyNDgyNTM4Ml19
 -->
