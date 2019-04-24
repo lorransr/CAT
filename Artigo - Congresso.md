@@ -39,7 +39,9 @@ A princípio foram adquiridas 6 bases de dados, com diferentes recortes a respei
   
 Todas as bases de dados são segmentadas por ano. Todas contêm algum indicativo se houve ou não uma comunicação de acidente de trabalho registrada. Igualmente, todas possuem um campo com a tipificação do acidente, seja ele típico, de trajeto ou uma doença de trabalho. Cada base será analisada individualmente, em seu contexto específico, com base em estudos a respeito do tema. Uma vez explorada todas essas seis dimensões do problema, será possível chegar em um compreendimento maior a respeito de como se apresenta a situação dos acidentes de trabalho no Brasil.
 
+## Acidentes de Trabalho por UF
 
+O primeiro conjunto de dados a ser estudado diz respeito aos acidentes de trabalho por unidade federal. Com essa base de dados pretendo responder a pergunta: "Onde ocorrem os acidentes de trabalho?". Também sera mostrado a evolução ao longo do tempo para as principais regiões.
 
 ## Referencias Bibliográficas
 
@@ -55,9 +57,10 @@ http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-311X2014000901957&l
 Empresa de Tecnologia e Informações da Previdência Social. Anuário estatístico da previdência social: 2017. [http://www.previdencia.gov.br/dados-abertos/dados-abertos-previdencia-social/](http://www.previdencia.gov.br/dados-abertos/dados-abertos-previdencia-social/) (acessado em 24/Fev/2019).
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNTUxMjgxOSwtMTI1ODYwNTY2MiwxMz
-MzMTI0Nzg1LDEzMjk1MzY5MTksLTIzOTc5OTM2NywtNTY3NTUz
-MzczLC0xNDM1MTA4MzMwLC0xMzcyOTc4MDQ0LC04MzYxMDA5Mj
-EsLTUzNzIxNzY2NCwtMTQ4MDUwMTA4LDc0OTY2MjQ5OCw4OTYz
-MDk1NTMsMTE1ODY1MDYxNiwyMjQ4MjUzODJdfQ==
+eyJoaXN0b3J5IjpbMTIyODU0MzYzMCwtOTA1NTEyODE5LC0xMj
+U4NjA1NjYyLDEzMzMxMjQ3ODUsMTMyOTUzNjkxOSwtMjM5Nzk5
+MzY3LC01Njc1NTMzNzMsLTE0MzUxMDgzMzAsLTEzNzI5NzgwND
+QsLTgzNjEwMDkyMSwtNTM3MjE3NjY0LC0xNDgwNTAxMDgsNzQ5
+NjYyNDk4LDg5NjMwOTU1MywxMTU4NjUwNjE2LDIyNDgyNTM4Ml
+19
 -->
