@@ -4,7 +4,7 @@
 
 Em 2018 diversos portais como o próprio ministério público do trabalho e a associação nacional de medicina do trabalho reproduziram a notícia de que o Brasil seria o 4° pais em um ranking feito com base em dados da OIT, que diz respeito aos países com a maior quantidade de acidentes de trabalho. Segundo, a própria OIT (truconosestados) tal ranking nunca existiu. Essa informação foi replicada, inclusive no programa de governo de um deputado no rio grande do sul. Na época, a OIT só possuía informações a respeito do assunto até o ano de 2011.
 
-A desinformação a respeito dos acidentes de trabalho no país é em si alarmante. A situação se agrava, em vista que em 2017 foram registrados 895770 acidentes no país, segundo dados do MPT. Outro aspecto a ser observado é o custo associado a invalidez. Anualmente a previdência social busca publicar um relatório informando diversos 
+A desinformação a respeito dos acidentes de trabalho no país é em si alarmante. A situação se agrava, em vista que em 2017 foram registrados 895770 acidentes no país, segundo dados do MPT. Outro aspecto a ser observado é o custo associado a invalidez. Anualmente a previdência social busca publicar um relatório informando os dados que serão discutidos neste artigo. No entanto com o horizonte de observação limitado e sem uma análise contextualizada.
 Entender onde, com quem, quando e como ocorrem os acidentes de trabalho são os primeiros passos para o norteamento de políticas públicas de prevenção de acidentes.  
   
 Com isso em mente esse trabalho se propõem a realizar uma analise, a partir das bases de dados disponibilizadas, através do portal da transparência, pela previdência social a respeito dos acidentes do trabalho ocorridos no pais no período x.  
@@ -52,8 +52,8 @@ http://www.scielo.br/scielo.php?pid=S1413-81232005000400009&script=sci_abstract&
 http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0034-89102006000700007&lng=en
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NzU1MzM3MywtMTQzNTEwODMzMCwtMT
-M3Mjk3ODA0NCwtODM2MTAwOTIxLC01MzcyMTc2NjQsLTE0ODA1
-MDEwOCw3NDk2NjI0OTgsODk2MzA5NTUzLDExNTg2NTA2MTYsMj
-I0ODI1MzgyXX0=
+eyJoaXN0b3J5IjpbLTIzOTc5OTM2NywtNTY3NTUzMzczLC0xND
+M1MTA4MzMwLC0xMzcyOTc4MDQ0LC04MzYxMDA5MjEsLTUzNzIx
+NzY2NCwtMTQ4MDUwMTA4LDc0OTY2MjQ5OCw4OTYzMDk1NTMsMT
+E1ODY1MDYxNiwyMjQ4MjUzODJdfQ==
 -->
