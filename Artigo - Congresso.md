@@ -52,11 +52,12 @@ https://www.scielosp.org/scielo.php?pid=S0034-89102006000700007&script=sci_artte
 http://www.scielo.br/scielo.php?pid=S1413-81232005000400009&script=sci_abstract&tlng=pt
 http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0034-89102006000700007&lng=en
 http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-311X2014000901957&lang=en
+Empresa de Tecnologia e Informações da Previdência Social. Anuário estatístico da previdência social: 2017. [http://www.previdenciasocial.gov.br/conteudoDinamico.php?id=850](http://www.previdenciasocial.gov.br/conteudoDinamico.php?id=850) (acessado em 24/Fev/2019).
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTg2MDU2NjIsMTMzMzEyNDc4NSwxMz
-I5NTM2OTE5LC0yMzk3OTkzNjcsLTU2NzU1MzM3MywtMTQzNTEw
-ODMzMCwtMTM3Mjk3ODA0NCwtODM2MTAwOTIxLC01MzcyMTc2Nj
-QsLTE0ODA1MDEwOCw3NDk2NjI0OTgsODk2MzA5NTUzLDExNTg2
-NTA2MTYsMjI0ODI1MzgyXX0=
+eyJoaXN0b3J5IjpbMjA1MDc4NTQ1MywtMTI1ODYwNTY2MiwxMz
+MzMTI0Nzg1LDEzMjk1MzY5MTksLTIzOTc5OTM2NywtNTY3NTUz
+MzczLC0xNDM1MTA4MzMwLC0xMzcyOTc4MDQ0LC04MzYxMDA5Mj
+EsLTUzNzIxNzY2NCwtMTQ4MDUwMTA4LDc0OTY2MjQ5OCw4OTYz
+MDk1NTMsMTE1ODY1MDYxNiwyMjQ4MjUzODJdfQ==
 -->
