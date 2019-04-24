@@ -4,7 +4,7 @@
 
 Em 2018 diversos portais como o próprio ministério público do trabalho e a associação nacional de medicina do trabalho reproduziram a notícia de que o Brasil seria o 4° pais em um ranking feito com base em dados da OIT, que diz respeito aos países com a maior quantidade de acidentes de trabalho. Segundo, a própria OIT (truconosestados) tal ranking nunca existiu. Essa informação foi replicada, inclusive no programa de governo de um deputado no rio grande do sul. Na época, a OIT só possuía informações a respeito do assunto até o ano de 2011.
 
-A desinformação a respeito dos acidentes de trabalho no país é em si alarmante. A situação se agrava, em vista que em 2017 foram registrados 895770 acidentes no país, segundo dados do MPT. Anualmente a previdência social busca publicar um relatório informando os dados que serão discutidos neste artigo. No anuário de 2017 consta também 
+A desinformação a respeito dos acidentes de trabalho no país é em si alarmante. A situação se agrava, em vista que em 2017 foram registrados 895770 acidentes no país, segundo dados do MPT. Anualmente a previdência social busca publicar um relatório informando os dados que serão discutidos neste artigo. No anuário de 2017 consta que a previdência social mantinha 34,3 milhões de benefícios ativos, dos 
 Entender onde, com quem, quando e como ocorrem os acidentes de trabalho são os primeiros passos para o norteamento de políticas públicas de prevenção de acidentes.  
 
 
@@ -55,9 +55,9 @@ http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0034-89102006000700007&l
 http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-311X2014000901957&lang=en
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcxODczNDAxLDEzMzMxMjQ3ODUsMTMyOT
-UzNjkxOSwtMjM5Nzk5MzY3LC01Njc1NTMzNzMsLTE0MzUxMDgz
-MzAsLTEzNzI5NzgwNDQsLTgzNjEwMDkyMSwtNTM3MjE3NjY0LC
-0xNDgwNTAxMDgsNzQ5NjYyNDk4LDg5NjMwOTU1MywxMTU4NjUw
-NjE2LDIyNDgyNTM4Ml19
+eyJoaXN0b3J5IjpbLTcxMDU1MzMwNCwxMzMzMTI0Nzg1LDEzMj
+k1MzY5MTksLTIzOTc5OTM2NywtNTY3NTUzMzczLC0xNDM1MTA4
+MzMwLC0xMzcyOTc4MDQ0LC04MzYxMDA5MjEsLTUzNzIxNzY2NC
+wtMTQ4MDUwMTA4LDc0OTY2MjQ5OCw4OTYzMDk1NTMsMTE1ODY1
+MDYxNiwyMjQ4MjUzODJdfQ==
 -->
