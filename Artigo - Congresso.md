@@ -44,6 +44,9 @@ Todas as bases de dados são segmentadas por ano. Todas contêm algum indicativo
 O primeiro conjunto de dados a ser estudado diz respeito aos acidentes de trabalho por unidade federal. Com essa base de dados pretende-se responder a pergunta: "Onde ocorrem os acidentes de trabalho?". Também foi mostrado a evolução ao longo do tempo para as grandes regiões do pais. Das 2893 linhas contidas na base de dados, apenas uma continha valores nulos, portanto foi descartada.
 >lembrar de modificar a tabela para agrupar as quantidades de acidentes 
 
+Os dados estão distribuídos 
+
+### Estados com maior quantidade de acidentes
 
 
 ## Referencias Bibliográficas
@@ -60,7 +63,7 @@ http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-311X2014000901957&l
 Empresa de Tecnologia e Informações da Previdência Social. Anuário estatístico da previdência social: 2017. [http://www.previdencia.gov.br/dados-abertos/dados-abertos-previdencia-social/](http://www.previdencia.gov.br/dados-abertos/dados-abertos-previdencia-social/) (acessado em 24/Fev/2019).
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTc2MDQwMSwtMzQ1MjAzNzExLDExNz
+eyJoaXN0b3J5IjpbLTE4Mzg2MzEzMywtMzQ1MjAzNzExLDExNz
 AxNjYyMjMsMTI4NjQ3MDkwMiwtOTA1NTEyODE5LC0xMjU4NjA1
 NjYyLDEzMzMxMjQ3ODUsMTMyOTUzNjkxOSwtMjM5Nzk5MzY3LC
 01Njc1NTMzNzMsLTE0MzUxMDgzMzAsLTEzNzI5NzgwNDQsLTgz
