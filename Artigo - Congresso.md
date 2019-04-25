@@ -43,7 +43,7 @@ Todas as bases de dados são segmentadas por ano. Todas contêm algum indicativo
 
 O primeiro conjunto de dados a ser estudado diz respeito aos acidentes de trabalho por unidade federal. Com essa base de dados pretende-se responder a pergunta: "Onde ocorrem os acidentes de trabalho?". Também foi mostrado a evolução ao longo do tempo para as grandes regiões do pais. Das 2893 linhas contidas na base de dados, apenas uma continha valores nulos, portanto foi descartada.
 
-|
+
 
 ## Referencias Bibliográficas
 
@@ -59,10 +59,10 @@ http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-311X2014000901957&l
 Empresa de Tecnologia e Informações da Previdência Social. Anuário estatístico da previdência social: 2017. [http://www.previdencia.gov.br/dados-abertos/dados-abertos-previdencia-social/](http://www.previdencia.gov.br/dados-abertos/dados-abertos-previdencia-social/) (acessado em 24/Fev/2019).
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjg5OTg3NjUsMTE3MDE2NjIyMywxMj
-g2NDcwOTAyLC05MDU1MTI4MTksLTEyNTg2MDU2NjIsMTMzMzEy
-NDc4NSwxMzI5NTM2OTE5LC0yMzk3OTkzNjcsLTU2NzU1MzM3My
-wtMTQzNTEwODMzMCwtMTM3Mjk3ODA0NCwtODM2MTAwOTIxLC01
-MzcyMTc2NjQsLTE0ODA1MDEwOCw3NDk2NjI0OTgsODk2MzA5NT
-UzLDExNTg2NTA2MTYsMjI0ODI1MzgyXX0=
+eyJoaXN0b3J5IjpbLTM0NTIwMzcxMSwxMTcwMTY2MjIzLDEyOD
+Y0NzA5MDIsLTkwNTUxMjgxOSwtMTI1ODYwNTY2MiwxMzMzMTI0
+Nzg1LDEzMjk1MzY5MTksLTIzOTc5OTM2NywtNTY3NTUzMzczLC
+0xNDM1MTA4MzMwLC0xMzcyOTc4MDQ0LC04MzYxMDA5MjEsLTUz
+NzIxNzY2NCwtMTQ4MDUwMTA4LDc0OTY2MjQ5OCw4OTYzMDk1NT
+MsMTE1ODY1MDYxNiwyMjQ4MjUzODJdfQ==
 -->
