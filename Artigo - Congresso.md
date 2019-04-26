@@ -37,7 +37,7 @@ A princípio foram adquiridas 6 bases de dados, com diferentes recortes a respei
 5. Acidentes de Trabalho por CID  
 6. Acidentes de Trabalho por CBO  
   
-Todas as bases de dados são segmentadas por ano. Todas contêm algum indicativo se houve ou não uma comunicação de acidente de trabalho registrada. Igualmente, todas possuem um campo com a tipificação do acidente, seja ele típico, de trajeto ou uma doença de trabalho. Cada base será analisada individualmente, em seu contexto específico, com base em estudos a respeito do tema. Uma vez explorada todas essas seis dimensões do problema, será possível chegar em um compreendimento maior a respeito de como se apresenta a situação dos acidentes de trabalho no Brasil.
+Todas as bases de dados são segmentadas por ano. Todas um indicativo se houve ou não uma comunicação de acidente de trabalho registrada. Igualmente, todas possuem um campo com a tipificação do acidente, seja ele típico, de trajeto ou uma doença de trabalho. Cada base foi analisada individualmente, em seu contexto específico, com base em estudos a respeito do tema. Uma vez explorada todas essas seis dimensões do problema, foi possível chegar em um compreendimento maior a respeito de como se apresenta a situação dos acidentes de trabalho no Brasil.
 
 ## Acidentes de Trabalho por UF
 
@@ -63,10 +63,11 @@ http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-311X2014000901957&l
 Empresa de Tecnologia e Informações da Previdência Social. Anuário estatístico da previdência social: 2017. [http://www.previdencia.gov.br/dados-abertos/dados-abertos-previdencia-social/](http://www.previdencia.gov.br/dados-abertos/dados-abertos-previdencia-social/) (acessado em 24/Fev/2019).
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzg2MzEzMywtMzQ1MjAzNzExLDExNz
-AxNjYyMjMsMTI4NjQ3MDkwMiwtOTA1NTEyODE5LC0xMjU4NjA1
-NjYyLDEzMzMxMjQ3ODUsMTMyOTUzNjkxOSwtMjM5Nzk5MzY3LC
-01Njc1NTMzNzMsLTE0MzUxMDgzMzAsLTEzNzI5NzgwNDQsLTgz
-NjEwMDkyMSwtNTM3MjE3NjY0LC0xNDgwNTAxMDgsNzQ5NjYyND
-k4LDg5NjMwOTU1MywxMTU4NjUwNjE2LDIyNDgyNTM4Ml19
+eyJoaXN0b3J5IjpbMTUxMzI0NjE4MCwtMTgzODYzMTMzLC0zND
+UyMDM3MTEsMTE3MDE2NjIyMywxMjg2NDcwOTAyLC05MDU1MTI4
+MTksLTEyNTg2MDU2NjIsMTMzMzEyNDc4NSwxMzI5NTM2OTE5LC
+0yMzk3OTkzNjcsLTU2NzU1MzM3MywtMTQzNTEwODMzMCwtMTM3
+Mjk3ODA0NCwtODM2MTAwOTIxLC01MzcyMTc2NjQsLTE0ODA1MD
+EwOCw3NDk2NjI0OTgsODk2MzA5NTUzLDExNTg2NTA2MTYsMjI0
+ODI1MzgyXX0=
 -->
