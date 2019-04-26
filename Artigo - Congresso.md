@@ -41,7 +41,7 @@ Todas as bases de dados são segmentadas por ano. Todas um indicativo se houve o
 
 ## Acidentes de Trabalho por UF
 
-O primeiro conjunto de dados a ser estudado diz respeito aos acidentes de trabalho por unidade federal. Com essa base de dados pretende-se responder a pergunta: "Onde ocorrem os acidentes de trabalho?". Também foi mostrado a evolução ao longo do tempo para as grandes regiões do pais. Das 2893 linhas contidas na base de dados, apenas uma continha valores nulos, portanto foi descartada.
+O primeiro conjunto de dados estudado diz respeito aos acidentes de trabalho por unidade federal. Com essa base de dados pretende-se responder a pergunta: "Onde ocorrem os acidentes de trabalho?". Também foi mostrado a evolução ao longo do tempo para as grandes regiões do pais. Das 2893 linhas contidas na base de dados, apenas uma continha valores nulos, portanto foi descartada.
 >lembrar de modificar a tabela para agrupar as quantidades de acidentes 
 
 Os dados estão distribuídos 
@@ -63,11 +63,11 @@ http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-311X2014000901957&l
 Empresa de Tecnologia e Informações da Previdência Social. Anuário estatístico da previdência social: 2017. [http://www.previdencia.gov.br/dados-abertos/dados-abertos-previdencia-social/](http://www.previdencia.gov.br/dados-abertos/dados-abertos-previdencia-social/) (acessado em 24/Fev/2019).
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMzI0NjE4MCwtMTgzODYzMTMzLC0zND
-UyMDM3MTEsMTE3MDE2NjIyMywxMjg2NDcwOTAyLC05MDU1MTI4
-MTksLTEyNTg2MDU2NjIsMTMzMzEyNDc4NSwxMzI5NTM2OTE5LC
-0yMzk3OTkzNjcsLTU2NzU1MzM3MywtMTQzNTEwODMzMCwtMTM3
-Mjk3ODA0NCwtODM2MTAwOTIxLC01MzcyMTc2NjQsLTE0ODA1MD
-EwOCw3NDk2NjI0OTgsODk2MzA5NTUzLDExNTg2NTA2MTYsMjI0
-ODI1MzgyXX0=
+eyJoaXN0b3J5IjpbNDk4NjU0ODgzLC0xODM4NjMxMzMsLTM0NT
+IwMzcxMSwxMTcwMTY2MjIzLDEyODY0NzA5MDIsLTkwNTUxMjgx
+OSwtMTI1ODYwNTY2MiwxMzMzMTI0Nzg1LDEzMjk1MzY5MTksLT
+IzOTc5OTM2NywtNTY3NTUzMzczLC0xNDM1MTA4MzMwLC0xMzcy
+OTc4MDQ0LC04MzYxMDA5MjEsLTUzNzIxNzY2NCwtMTQ4MDUwMT
+A4LDc0OTY2MjQ5OCw4OTYzMDk1NTMsMTE1ODY1MDYxNiwyMjQ4
+MjUzODJdfQ==
 -->
