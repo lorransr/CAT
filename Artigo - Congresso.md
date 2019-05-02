@@ -6,7 +6,7 @@ Em 2018 diversos portais como o próprio ministério público do trabalho e a as
 
 A desinformação a respeito dos acidentes de trabalho no país é em si alarmante. A situação se agrava, em vista que em 2017 foram registrados 895770 acidentes no país, segundo dados do MPT. Anualmente a previdência social busca publicar um relatório informando os dados que serão discutidos neste artigo. No anuário de 2017 consta que a previdência social mantinha 34,3 milhões de benefícios ativos, dos quais 2,3% são benefícios relacionados a acidentes de trabalho, totalizando o montante de R$ 970.777 Milhões.
 
-Outro aspecto pouco abordado, é  o impacto na produtividade. Sousa Santana (2006) estimou para o estado da Bahia no ano de 2007, um total de aproximadamente meio milhão de dias perdidos, de trabalho no ano; levando-se a população de 2857 acidentados.
+Outro aspecto pouco abordado, é  o impacto na produtividade. Sousa Santana (2006) estimou para o estado da Bahia no ano de 2007, um total de aproximadamente meio milhão de dias perdidos, de trabalho no ano; levando-se em consideração a população de 2857 acidentados.
 
 Entender onde, com quem, quando e como ocorrem os acidentes de trabalho são os primeiros passos para o norteamento de políticas públicas de prevenção de acidentes.  Com isso em mente esse trabalho se propõem a realizar uma analise, a partir das bases de dados disponibilizadas, através do portal da transparência, pela previdência social a respeito dos acidentes do trabalho ocorridos no pais no período x.  
 
@@ -64,7 +64,7 @@ http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-311X2014000901957&l
 Empresa de Tecnologia e Informações da Previdência Social. Anuário estatístico da previdência social: 2017. [http://www.previdencia.gov.br/dados-abertos/dados-abertos-previdencia-social/](http://www.previdencia.gov.br/dados-abertos/dados-abertos-previdencia-social/) (acessado em 24/Fev/2019).
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzIyNDY4MywtMjQwOTI5NDU1LC0xOD
+eyJoaXN0b3J5IjpbMjEzNTAzNDg5NCwtMjQwOTI5NDU1LC0xOD
 M4NjMxMzMsLTM0NTIwMzcxMSwxMTcwMTY2MjIzLDEyODY0NzA5
 MDIsLTkwNTUxMjgxOSwtMTI1ODYwNTY2MiwxMzMzMTI0Nzg1LD
 EzMjk1MzY5MTksLTIzOTc5OTM2NywtNTY3NTUzMzczLC0xNDM1
