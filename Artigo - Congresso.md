@@ -37,7 +37,7 @@ A princípio foram adquiridas 6 bases de dados, com diferentes recortes a respei
 5. Acidentes de Trabalho por CID  
 6. Acidentes de Trabalho por CBO  
   
-Todas as bases de dados são segmentadas por ano. Todas um indicativo se houve ou não uma comunicação de acidente de trabalho registrada. Igualmente, todas possuem um campo com a tipificação do acidente, seja ele típico, de trajeto ou uma doença de trabalho. Cada base foi analisada individualmente, em seu contexto específico, com base em estudos a respeito do tema. Uma vez explorada todas essas seis dimensões do problema, foi possível chegar em um compreendimento maior a respeito de como se apresenta a situação dos acidentes de trabalho no Brasil.
+Todas as bases de dados são segmentadas por ano. Todas possuem um indicativo se houve ou não uma comunicação de acidente de trabalho registrada. Igualmente, todas possuem um campo com a tipificação do acidente, seja ele típico, de trajeto ou uma doença de trabalho. Cada base foi analisada individualmente, em seu contexto específico, com base em estudos a respeito do tema. Uma vez explorada todas essas seis dimensões do problema, foi possível chegar em um compreendimento maior a respeito de como se apresenta a situação dos acidentes de trabalho no Brasil, levando-se em consideração .
 
 ## Acidentes de Trabalho por UF
 
@@ -64,7 +64,7 @@ http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-311X2014000901957&l
 Empresa de Tecnologia e Informações da Previdência Social. Anuário estatístico da previdência social: 2017. [http://www.previdencia.gov.br/dados-abertos/dados-abertos-previdencia-social/](http://www.previdencia.gov.br/dados-abertos/dados-abertos-previdencia-social/) (acessado em 24/Fev/2019).
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNTAzNDg5NCwtMjQwOTI5NDU1LC0xOD
+eyJoaXN0b3J5IjpbLTY0MDgxOTI1MSwtMjQwOTI5NDU1LC0xOD
 M4NjMxMzMsLTM0NTIwMzcxMSwxMTcwMTY2MjIzLDEyODY0NzA5
 MDIsLTkwNTUxMjgxOSwtMTI1ODYwNTY2MiwxMzMzMTI0Nzg1LD
 EzMjk1MzY5MTksLTIzOTc5OTM2NywtNTY3NTUzMzczLC0xNDM1
