@@ -42,7 +42,7 @@ Todas as bases de dados são segmentadas por ano. Todas possuem um indicativo se
 ## Acidentes de Trabalho por UF
 
 O primeiro conjunto de dados estudado diz respeito aos acidentes de trabalho por unidade federal. Com essa base de dados pretende-se responder a pergunta: "Onde ocorrem os acidentes de trabalho?". Também foi mostrado a evolução ao longo do tempo para as grandes regiões do pais. 
-Ao todo são 1984 registros,
+Ao todo são 1984 registros, desde 2000. Nenhum registro teve de ser descartado ou desconsiderado.
 >lembrar de modificar a tabela para agrupar as quantidades de acidentes 
 
 Os dados estão distribuídos 
@@ -64,11 +64,11 @@ http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-311X2014000901957&l
 Empresa de Tecnologia e Informações da Previdência Social. Anuário estatístico da previdência social: 2017. [http://www.previdencia.gov.br/dados-abertos/dados-abertos-previdencia-social/](http://www.previdencia.gov.br/dados-abertos/dados-abertos-previdencia-social/) (acessado em 24/Fev/2019).
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY5OTk2MTM5LC0xOTgxNTkyNTUsLTI0MD
-kyOTQ1NSwtMTgzODYzMTMzLC0zNDUyMDM3MTEsMTE3MDE2NjIy
-MywxMjg2NDcwOTAyLC05MDU1MTI4MTksLTEyNTg2MDU2NjIsMT
-MzMzEyNDc4NSwxMzI5NTM2OTE5LC0yMzk3OTkzNjcsLTU2NzU1
-MzM3MywtMTQzNTEwODMzMCwtMTM3Mjk3ODA0NCwtODM2MTAwOT
-IxLC01MzcyMTc2NjQsLTE0ODA1MDEwOCw3NDk2NjI0OTgsODk2
-MzA5NTUzXX0=
+eyJoaXN0b3J5IjpbMTQ4Njc1Mzg5MiwtMTk4MTU5MjU1LC0yND
+A5Mjk0NTUsLTE4Mzg2MzEzMywtMzQ1MjAzNzExLDExNzAxNjYy
+MjMsMTI4NjQ3MDkwMiwtOTA1NTEyODE5LC0xMjU4NjA1NjYyLD
+EzMzMxMjQ3ODUsMTMyOTUzNjkxOSwtMjM5Nzk5MzY3LC01Njc1
+NTMzNzMsLTE0MzUxMDgzMzAsLTEzNzI5NzgwNDQsLTgzNjEwMD
+kyMSwtNTM3MjE3NjY0LC0xNDgwNTAxMDgsNzQ5NjYyNDk4LDg5
+NjMwOTU1M119
 -->
