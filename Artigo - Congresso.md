@@ -42,7 +42,7 @@ Todas as bases de dados são segmentadas por ano. Todas possuem um indicativo se
 ## Acidentes de Trabalho por UF
 
 O primeiro conjunto de dados estudado diz respeito aos acidentes de trabalho por unidade federal. Com essa base de dados pretende-se responder a pergunta: "Onde ocorrem os acidentes de trabalho?". Também foi mostrado a evolução ao longo do tempo para as grandes regiões do pais. 
-Ao todo são 1984 registros, desde 2001. Nenhum registro teve de ser descartado ou desconsiderado. Uma outra base de dados foi adquirida através de uma consulta ao sistema SIDRA do IBGE, onde se obteve a estimativa populacional para cada um dos estados do Brasil, de 2001 à 2016. Para os estados que não possuíam estim
+Ao todo são 1984 registros, desde 2001. Nenhum registro teve de ser descartado ou desconsiderado. Uma outra base de dados foi adquirida através de uma consulta ao sistema SIDRA do IBGE, onde se obteve a estimativa populacional para cada um dos estados do Brasil, de 2001 à 2016. Para os estados que não possuíam estimativa ano a ano, foi considerado a estimativa do ano anterior 
 
 Os dados estão distribuídos 
 
@@ -63,11 +63,11 @@ http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-311X2014000901957&l
 Empresa de Tecnologia e Informações da Previdência Social. Anuário estatístico da previdência social: 2017. [http://www.previdencia.gov.br/dados-abertos/dados-abertos-previdencia-social/](http://www.previdencia.gov.br/dados-abertos/dados-abertos-previdencia-social/) (acessado em 24/Fev/2019).
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MTY2MTc2NCwxNDcwNjM1NTg1LDE0OD
-Y3NTM4OTIsLTE5ODE1OTI1NSwtMjQwOTI5NDU1LC0xODM4NjMx
-MzMsLTM0NTIwMzcxMSwxMTcwMTY2MjIzLDEyODY0NzA5MDIsLT
-kwNTUxMjgxOSwtMTI1ODYwNTY2MiwxMzMzMTI0Nzg1LDEzMjk1
-MzY5MTksLTIzOTc5OTM2NywtNTY3NTUzMzczLC0xNDM1MTA4Mz
-MwLC0xMzcyOTc4MDQ0LC04MzYxMDA5MjEsLTUzNzIxNzY2NCwt
-MTQ4MDUwMTA4XX0=
+eyJoaXN0b3J5IjpbLTE5MDE2MjkwODQsLTY3MTY2MTc2NCwxND
+cwNjM1NTg1LDE0ODY3NTM4OTIsLTE5ODE1OTI1NSwtMjQwOTI5
+NDU1LC0xODM4NjMxMzMsLTM0NTIwMzcxMSwxMTcwMTY2MjIzLD
+EyODY0NzA5MDIsLTkwNTUxMjgxOSwtMTI1ODYwNTY2MiwxMzMz
+MTI0Nzg1LDEzMjk1MzY5MTksLTIzOTc5OTM2NywtNTY3NTUzMz
+czLC0xNDM1MTA4MzMwLC0xMzcyOTc4MDQ0LC04MzYxMDA5MjEs
+LTUzNzIxNzY2NF19
 -->
