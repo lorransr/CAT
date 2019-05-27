@@ -1,0 +1,433 @@
+Unidade da Federação;Ano;Total
+Alagoas;2001;177073
+Alagoas;2002;188077
+Alagoas;2003;196352
+Alagoas;2004;209839
+Alagoas;2005;216708
+Alagoas;2006;222576
+Alagoas;2007;247379
+Alagoas;2008;270240
+Alagoas;2009;274692
+Alagoas;2010;301620
+Alagoas;2011;335744
+Alagoas;2012;360643
+Alagoas;2013;350351
+Alagoas;2014;362533
+Alagoas;2015;361131
+Alagoas;2016;350817
+Amazonas;2001;180613
+Amazonas;2002;191960
+Amazonas;2003;205262
+Amazonas;2004;235500
+Amazonas;2005;276176
+Amazonas;2006;290700
+Amazonas;2007;325120
+Amazonas;2008;373120
+Amazonas;2009;373471
+Amazonas;2010;409275
+Amazonas;2011;464222
+Amazonas;2012;492538
+Amazonas;2013;499853
+Amazonas;2014;501147
+Amazonas;2015;478129
+Amazonas;2016;427750
+Bahia;2001;907018
+Bahia;2002;960772
+Bahia;2003;979571
+Bahia;2004;1088805
+Bahia;2005;1178279
+Bahia;2006;1227020
+Bahia;2007;1357214
+Bahia;2008;1521154
+Bahia;2009;1576573
+Bahia;2010;1729036
+Bahia;2011;1852719
+Bahia;2012;1987195
+Bahia;2013;1976050
+Bahia;2014;2034892
+Bahia;2015;2006666
+Bahia;2016;1919921
+Ceará;2001;530355
+Ceará;2002;566336
+Ceará;2003;589017
+Ceará;2004;627740
+Ceará;2005;674434
+Ceará;2006;718050
+Ceará;2007;783798
+Ceará;2008;864901
+Ceará;2009;920800
+Ceará;2010;1017294
+Ceará;2011;1123245
+Ceará;2012;1201538
+Ceará;2013;1230365
+Ceará;2014;1286655
+Ceará;2015;1292267
+Ceará;2016;1234308
+Mato Grosso do Sul;2001;247316
+Mato Grosso do Sul;2002;265875
+Mato Grosso do Sul;2003;279907
+Mato Grosso do Sul;2004;306908
+Mato Grosso do Sul;2005;320183
+Mato Grosso do Sul;2006;330966
+Mato Grosso do Sul;2007;348692
+Mato Grosso do Sul;2008;401603
+Mato Grosso do Sul;2009;409392
+Mato Grosso do Sul;2010;443912
+Mato Grosso do Sul;2011;484076
+Mato Grosso do Sul;2012;523013
+Mato Grosso do Sul;2013;544721
+Mato Grosso do Sul;2014;545317
+Mato Grosso do Sul;2015;536400
+Mato Grosso do Sul;2016;526686
+Espírito Santo;2001;423670
+Espírito Santo;2002;449220
+Espírito Santo;2003;462124
+Espírito Santo;2004;497164
+Espírito Santo;2005;540615
+Espírito Santo;2006;582966
+Espírito Santo;2007;614084
+Espírito Santo;2008;680021
+Espírito Santo;2009;695573
+Espírito Santo;2010;747092
+Espírito Santo;2011;792328
+Espírito Santo;2012;834029
+Espírito Santo;2013;849500
+Espírito Santo;2014;858152
+Espírito Santo;2015;836655
+Espírito Santo;2016;779012
+Goiás;2001;555818
+Goiás;2002;587589
+Goiás;2003;602701
+Goiás;2004;662953
+Goiás;2005;707630
+Goiás;2006;738165
+Goiás;2007;790405
+Goiás;2008;898514
+Goiás;2009;952485
+Goiás;2010;1041531
+Goiás;2011;1134663
+Goiás;2012;1218212
+Goiás;2013;1273386
+Goiás;2014;1295768
+Goiás;2015;1268288
+Goiás;2016;1219972
+Maranhão;2001;191903
+Maranhão;2002;199708
+Maranhão;2003;203112
+Maranhão;2004;220492
+Maranhão;2005;247038
+Maranhão;2006;259880
+Maranhão;2007;308102
+Maranhão;2008;369399
+Maranhão;2009;378094
+Maranhão;2010;417466
+Maranhão;2011;459899
+Maranhão;2012;525834
+Maranhão;2013;524290
+Maranhão;2014;540196
+Maranhão;2015;526402
+Maranhão;2016;515910
+Mato Grosso;2001;282705
+Mato Grosso;2002;305663
+Mato Grosso;2003;327486
+Mato Grosso;2004;373307
+Mato Grosso;2005;404191
+Mato Grosso;2006;400638
+Mato Grosso;2007;437271
+Mato Grosso;2008;498591
+Mato Grosso;2009;531549
+Mato Grosso;2010;573115
+Mato Grosso;2011;616374
+Mato Grosso;2012;668975
+Mato Grosso;2013;707494
+Mato Grosso;2014;736076
+Mato Grosso;2015;722240
+Mato Grosso;2016;694733
+Minas Gerais;2001;2353057
+Minas Gerais;2002;2453381
+Minas Gerais;2003;2519916
+Minas Gerais;2004;2709331
+Minas Gerais;2005;2913347
+Minas Gerais;2006;3048558
+Minas Gerais;2007;3279473
+Minas Gerais;2008;3637694
+Minas Gerais;2009;3698116
+Minas Gerais;2010;4004108
+Minas Gerais;2011;4286327
+Minas Gerais;2012;4514750
+Minas Gerais;2013;4598693
+Minas Gerais;2014;4657235
+Minas Gerais;2015;4523675
+Minas Gerais;2016;4340785
+Pará;2001;337098
+Pará;2002;370370
+Pará;2003;381980
+Pará;2004;420810
+Pará;2005;473495
+Pará;2006;473337
+Pará;2007;552311
+Pará;2008;620552
+Pará;2009;622250
+Pará;2010;684963
+Pará;2011;756149
+Pará;2012;876804
+Pará;2013;870423
+Pará;2014;923441
+Pará;2015;908830
+Pará;2016;870032
+Paraíba;2001;221576
+Paraíba;2002;226794
+Paraíba;2003;227148
+Paraíba;2004;239888
+Paraíba;2005;258312
+Paraíba;2006;267169
+Paraíba;2007;316501
+Paraíba;2008;352683
+Paraíba;2009;358567
+Paraíba;2010;400495
+Paraíba;2011;424273
+Paraíba;2012;472135
+Paraíba;2013;485180
+Paraíba;2014;517346
+Paraíba;2015;517414
+Paraíba;2016;500183
+Paraná;2001;1438666
+Paraná;2002;1488908
+Paraná;2003;1541344
+Paraná;2004;1656665
+Paraná;2005;1764801
+Paraná;2006;1798535
+Paraná;2007;1936102
+Paraná;2008;2130748
+Paraná;2009;2202815
+Paraná;2010;2359026
+Paraná;2011;2514351
+Paraná;2012;2644206
+Paraná;2013;2736098
+Paraná;2014;2792155
+Paraná;2015;2749979
+Paraná;2016;2628710
+Pernambuco;2001;589710
+Pernambuco;2002;608237
+Pernambuco;2003;608813
+Pernambuco;2004;656221
+Pernambuco;2005;705884
+Pernambuco;2006;729824
+Pernambuco;2007;830416
+Pernambuco;2008;908180
+Pernambuco;2009;963665
+Pernambuco;2010;1090000
+Pernambuco;2011;1217838
+Pernambuco;2012;1344744
+Pernambuco;2013;1363179
+Pernambuco;2014;1434214
+Pernambuco;2015;1367564
+Pernambuco;2016;1279872
+Piauí;2001;129530
+Piauí;2002;135681
+Piauí;2003;137724
+Piauí;2004;149642
+Piauí;2005;168127
+Piauí;2006;176970
+Piauí;2007;199966
+Piauí;2008;231056
+Piauí;2009;243903
+Piauí;2010;275632
+Piauí;2011;294366
+Piauí;2012;315547
+Piauí;2013;330707
+Piauí;2014;355284
+Piauí;2015;356944
+Piauí;2016;346493
+Rio de Janeiro;2001;2145092
+Rio de Janeiro;2002;2165687
+Rio de Janeiro;2003;2169501
+Rio de Janeiro;2004;2254717
+Rio de Janeiro;2005;2327786
+Rio de Janeiro;2006;2327173
+Rio de Janeiro;2007;2576649
+Rio de Janeiro;2008;2767049
+Rio de Janeiro;2009;2891090
+Rio de Janeiro;2010;3135503
+Rio de Janeiro;2011;3368040
+Rio de Janeiro;2012;3616338
+Rio de Janeiro;2013;3709868
+Rio de Janeiro;2014;3803043
+Rio de Janeiro;2015;3697640
+Rio de Janeiro;2016;3433119
+Rio Grande do Norte;2001;241792
+Rio Grande do Norte;2002;256943
+Rio Grande do Norte;2003;263103
+Rio Grande do Norte;2004;290451
+Rio Grande do Norte;2005;311598
+Rio Grande do Norte;2006;324178
+Rio Grande do Norte;2007;363812
+Rio Grande do Norte;2008;391776
+Rio Grande do Norte;2009;401621
+Rio Grande do Norte;2010;438056
+Rio Grande do Norte;2011;460849
+Rio Grande do Norte;2012;481622
+Rio Grande do Norte;2013;490313
+Rio Grande do Norte;2014;519336
+Rio Grande do Norte;2015;509829
+Rio Grande do Norte;2016;484700
+Rio Grande do Sul;2001;1628915
+Rio Grande do Sul;2002;1670044
+Rio Grande do Sul;2003;1694788
+Rio Grande do Sul;2004;1794859
+Rio Grande do Sul;2005;1842069
+Rio Grande do Sul;2006;1836405
+Rio Grande do Sul;2007;1945371
+Rio Grande do Sul;2008;2100021
+Rio Grande do Sul;2009;2145424
+Rio Grande do Sul;2010;2315865
+Rio Grande do Sul;2011;2476577
+Rio Grande do Sul;2012;2572163
+Rio Grande do Sul;2013;2654398
+Rio Grande do Sul;2014;2718098
+Rio Grande do Sul;2015;2646858
+Rio Grande do Sul;2016;2523091
+Santa Catarina;2001;1018206
+Santa Catarina;2002;1066480
+Santa Catarina;2003;1106914
+Santa Catarina;2004;1199564
+Santa Catarina;2005;1292413
+Santa Catarina;2006;1338565
+Santa Catarina;2007;1478820
+Santa Catarina;2008;1577586
+Santa Catarina;2009;1628404
+Santa Catarina;2010;1744164
+Santa Catarina;2011;1850358
+Santa Catarina;2012;1941319
+Santa Catarina;2013;2009622
+Santa Catarina;2014;2126546
+Santa Catarina;2015;2101715
+Santa Catarina;2016;2006700
+São Paulo;2001;7147073
+São Paulo;2002;7200896
+São Paulo;2003;7252362
+São Paulo;2004;7634055
+São Paulo;2005;8083075
+São Paulo;2006;8313476
+São Paulo;2007;9322797
+São Paulo;2008;10117577
+São Paulo;2009;10350015
+São Paulo;2010;11103143
+São Paulo;2011;11839542
+São Paulo;2012;12353021
+São Paulo;2013;12599214
+São Paulo;2014;13117109
+São Paulo;2015;12728383
+São Paulo;2016;12047721
+Sergipe;2001;155557
+Sergipe;2002;162837
+Sergipe;2003;168374
+Sergipe;2004;180281
+Sergipe;2005;194910
+Sergipe;2006;207736
+Sergipe;2007;231751
+Sergipe;2008;250488
+Sergipe;2009;255391
+Sergipe;2010;274982
+Sergipe;2011;300699
+Sergipe;2012;321766
+Sergipe;2013;323908
+Sergipe;2014;351379
+Sergipe;2015;347267
+Sergipe;2016;328945
+Distrito Federal;2001;397233
+Distrito Federal;2002;410084
+Distrito Federal;2003;416757
+Distrito Federal;2004;449209
+Distrito Federal;2005;480321
+Distrito Federal;2006;478721
+Distrito Federal;2007;536914
+Distrito Federal;2008;582549
+Distrito Federal;2009;611375
+Distrito Federal;2010;658523
+Distrito Federal;2011;700244
+Distrito Federal;2012;746750
+Distrito Federal;2013;772268
+Distrito Federal;2014;857061
+Distrito Federal;2015;840236
+Distrito Federal;2016;807339
+Acre;2001;33410
+Acre;2002;34958
+Acre;2003;36029
+Acre;2004;39929
+Acre;2005;45931
+Acre;2006;45962
+Acre;2007;57236
+Acre;2008;62959
+Acre;2009;68328
+Acre;2010;74973
+Acre;2011;78848
+Acre;2012;88311
+Acre;2013;90321
+Acre;2014;97467
+Acre;2015;95651
+Acre;2016;94562
+Amapá;2001;29827
+Amapá;2002;29954
+Amapá;2003;30320
+Amapá;2004;36084
+Amapá;2005;41022
+Amapá;2006;42805
+Amapá;2007;49725
+Amapá;2008;55798
+Amapá;2009;60601
+Amapá;2010;67543
+Amapá;2011;71047
+Amapá;2012;79420
+Amapá;2013;78938
+Amapá;2014;85881
+Amapá;2015;74348
+Amapá;2016;70104
+Rondônia;2001;106958
+Rondônia;2002;110113
+Rondônia;2003;115527
+Rondônia;2004;126725
+Rondônia;2005;137780
+Rondônia;2006;144485
+Rondônia;2007;165180
+Rondônia;2008;176919
+Rondônia;2009;200329
+Rondônia;2010;236138
+Rondônia;2011;261846
+Rondônia;2012;276568
+Rondônia;2013;274860
+Rondônia;2014;283705
+Rondônia;2015;270985
+Rondônia;2016;251040
+Roraima;2001;18955
+Roraima;2002;20794
+Roraima;2003;20854
+Roraima;2004;19359
+Roraima;2005;27657
+Roraima;2006;31230
+Roraima;2007;38250
+Roraima;2008;42563
+Roraima;2009;45161
+Roraima;2010;54412
+Roraima;2011;59186
+Roraima;2012;64017
+Roraima;2013;61703
+Roraima;2014;65883
+Roraima;2015;63639
+Roraima;2016;64289
+Tocantins;2001;79803
+Tocantins;2002;89967
+Tocantins;2003;92882
+Tocantins;2004;106587
+Tocantins;2005;117801
+Tocantins;2006;126707
+Tocantins;2007;150458
+Tocantins;2008;163353
+Tocantins;2009;166620
+Tocantins;2010;183607
+Tocantins;2011;186989
+Tocantins;2012;205040
+Tocantins;2013;204977
+Tocantins;2014;224550
+Tocantins;2015;223619
+Tocantins;2016;220396
